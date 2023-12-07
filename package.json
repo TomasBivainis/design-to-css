@@ -1,0 +1,19 @@
+{
+  "name": "design-to-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasBivainis/design-to-css.git"
+  },
+  "author": "Tomas M. B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasBivainis/design-to-css/issues"
+  },
+  "homepage": "https://github.com/TomasBivainis/design-to-css#readme"
+}
